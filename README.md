@@ -7,3 +7,6 @@
 3. Autonomous Vehicles – Helps AUVs and underwater drones in object detection.
 4. Marine Exploration – Assists geologists in mapping ocean floors.
 5. Environmental Protection – Prevents disasters by detecting unexploded ordnance.
+
+## Work flow of the project
+![image](https://github.com/user-attachments/assets/e36dcbb3-5eac-4a25-a73a-4c5962c87be9)
